@@ -1,32 +1,49 @@
 body {
-  background-color: #e8ead3ff9c71;
+  background-color: #d4ebd0;
   font: baloo bhai;
-  color: black;
-  font-family: 'Lora', sans-serif
+  color: #07031a;
+  font-family: 'Merriweather', sans-serif;
 
 }
-  myprofile {
-      font-family: 'Baloo Bhai 2' cursive;
+
+.jenny {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    margin-right: 100px;
+
+
   }
 
+.info{
+  vertical-align: top;
+}
 
-
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+h4 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
 
 table {
   align-content: center;
 }
+
 p {
   color: black;
 }
 
-hr {
-  background-color: none;
-  border-style: dotted none none;
-  border-width: 10px;
-  border-color: #342b38;
-  width: 25%;
-
-}
 a:hover {
   background-color: gold;
+}
+
+
+body {
+  margin:30px 30px 30px 30px;
 }
